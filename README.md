@@ -11,17 +11,18 @@ simply captures those keybindings and pretends to press alt+up/down.
 
 ### Browsers
 
+[**Click here to install**][download]
+
 - Firefox requires
 [Greasemonkey](https://addons.mozilla.org/en-us/firefox/addon/greasemonkey/).
 - Chrome requires
   [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo).
 
-[**Click here to install**][download]
-
 ### Nimbus (Desktop Client)
 
 - Get [Nimbus](https://github.com/jnordberg/irccloudapp).
-- [Download][] and place in `~/Library/Application Support/nimbus/Scripts`.
+- Download the [userscript][download] and place it in `~/Library/Application
+  Support/nimbus/Scripts`.
 
 [download]: https://github.com/jimeh/alt-nav-keys-on-irccloud/raw/master/alt-nav-keys-on-irccloud.user.js
 
